@@ -17,5 +17,4 @@ Created an android application Feed Me which helps users to search restaurant ba
 
 ![image](https://cloud.githubusercontent.com/assets/11257521/19174532/461c7156-8be4-11e6-8417-18f8edf38cbe.png)
 
-![image](https://cloud.githubusercontent.com/assets/11257521/19174583/997a1f9c-8be4-11e6-8bbc-d7da88642278.png)
-
+![image](https://cloud.githubusercontent.com/assets/11257521/19174596/bc20b060-8be4-11e6-9c4d-e2c619bc8093.png)
