@@ -1,7 +1,11 @@
 # Restaurant-Search-Engine
 Created an android application Feed Me which helps users to search restaurant based on their locations and cuisines.  
 
+You can get APK file from this link
 
+https://drive.google.com/file/d/0BzKm_uVsEio2Smg1cHNtOHI3SHc/view?usp=sharing
+
+Here are the screenshots 
 
 ![image](https://cloud.githubusercontent.com/assets/11257521/19174429/99f817b8-8be3-11e6-99a1-0e49a20f78bd.png)
 
