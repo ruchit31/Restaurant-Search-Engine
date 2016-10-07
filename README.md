@@ -1,5 +1,7 @@
 # Restaurant-Search-Engine
 Created an android application Feed Me which helps users to search restaurant based on their locations and cuisines.  
+Fetch all the restaurant details by querying Yelp Api.
+
 
 You can get APK file from this link
 
